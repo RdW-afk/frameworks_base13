@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- PowerShare QS tile -->
     <string name="quick_settings_powershare_label">Battery Share</string>
     <string name="quick_settings_powershare_off_powersave_label">Battery Share off\nBattery saver</string>
