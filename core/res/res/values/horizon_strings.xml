@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2022-2023 VoidUI
+     Copyright (C) 2022-2023 HorizonDrooid
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Advanced reboot -->
+    <string name="reboot_to_recovery_title">Recovery</string>
+    <string name="reboot_to_recovery_message">Rebooting to recovery</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Rebooting to bootloader</string>
+    <string name="reboot_title">Reboot</string>
+    <string name="reboot_message">Rebooting system</string>
+
+    <!-- Face unlock -->
+    <string name="face_unlock_disabled_idle">Face unlock disabled due to inactivity</string>
 
 </resources>
